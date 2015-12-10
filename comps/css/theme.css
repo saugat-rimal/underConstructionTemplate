@@ -199,16 +199,3 @@ body{
 	}
 }
 
-@media only screen and (max-width: 600px) {
-   
-#window{
-	height: 70%;
-	width: 90%;
-	top: 5%;
-    left: 5%;
-
-
-
-}
-}
-

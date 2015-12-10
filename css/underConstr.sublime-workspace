@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"s",
+				"slow"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"top",
+				"topTray"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"ow",
+				"overflow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"icon-mo",
+				"icon-mobile"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"whit",
+				"whiteBoxx"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"margin-t",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ca",
+				"cameraSlider"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"main",
+				"mainMenu"
+			],
+			[
+				"ff",
+				"ffffff"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"ty",
+				"type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/index.html",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "theme.css",
+			"settings":
+			{
+				"buffer_size": 4388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "animate.css",
+			"settings":
+			{
+				"buffer_size": 1901,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/js/myFunct.js",
+			"settings":
+			{
+				"buffer_size": 1077,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 481.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/underConstr.sublime-project",
+		"/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/underConstr.sublime-workspace",
+		"/Users/texxnic/Documents/github/companysb.github.io/index.html",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/werstka/css/style.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/proffisbVer2/css/theme.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/style.css",
+		"/Volumes/Macintosh HD/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/style.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/contacts.php",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/js/search.js",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/css/style.css",
+		"/Applications/MAMP/htdocs/wp-config.php",
+		"/Users/texxnic/Documents/mailCloud/proffi/header.php",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/proffisb/web/index.html",
+		"/Volumes/WININSTALL/sources/ei.cfg ",
+		"/Users/texxnic/Documents/github/chopsb.github.io/index.html",
+		"/Users/texxnic/Documents/github/chopsb.github.io/css/style.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/lib/Enar/index.html",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/site/testSlider.html",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/site/css/style.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/site/js/smoothScroll.js",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/site/index.html",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/site/js/gmaps.js",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/chopsb/lib/Enar/index-one-page1.html",
+		"/Users/texxnic/Documents/github/companysb.github.io/css/style.css",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/commonSite/test/index2.html",
+		"/Users/texxnic/Documents/github/video-as-background-example/index.html",
+		"/Users/texxnic/Documents/mailCloud/work/profiSb/commonSite/test/index.html",
+		"/Users/texxnic/Downloads/SPR_3180000-3200000.txt",
+		"/Users/texxnic/Documents/github/Buttons/showcase/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"lightSpeedOut",
+			"120",
+			"ul",
+			"5",
+			"txtShadow",
+			".desc\n",
+			"say\n",
+			"c_say\n",
+			"desc\n",
+			"\n",
+			"feedback",
+			"footer_row",
+			"hidden-xs",
+			"menu",
+			"card",
+			"rumBG",
+			"vodkaIMG",
+			"h1",
+			"container",
+			"camera",
+			"slider",
+			"jx-subscribe",
+			"switcher",
+			"rebuild-style",
+			"styleswith",
+			"styleswit",
+			"style",
+			"=\" ",
+			"оберну",
+			"yandex",
+			"float",
+			".owl-pagination",
+			"images",
+			"img2.jpg",
+			"There are many variations of passages of Lorem Text on Ipsum available but the majority.",
+			"find ",
+			"наши ",
+			"clients",
+			"наши",
+			"отзывы",
+			"#1cc6df",
+			"#",
+			"color",
+			"1ccdca",
+			"selection",
+			"Чоп",
+			"ЧПО",
+			"чоп",
+			"мы зани",
+			".counter .icon",
+			".icon",
+			"чоп",
+			"дово",
+			"часов",
+			"contac inf",
+			"contac",
+			"bg1",
+			"jpg",
+			"мы зани",
+			"map",
+			"row_spac",
+			"margi",
+			"cursor",
+			"book",
+			"z-in",
+			"enter",
+			"png",
+			"jque",
+			"rambler"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"hidden-sm",
+			"Описание"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/index.html",
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1377,
+								1377
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "theme.css",
+					"settings":
+					{
+						"buffer_size": 4388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4024,
+								4024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1682.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "animate.css",
+					"settings":
+					{
+						"buffer_size": 1901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/texxnic/Documents/mailCloud/work/github/underConstructionTemplate/js/myFunct.js",
+					"settings":
+					{
+						"buffer_size": 1077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1075,
+								1075
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.387087827949,
+			0.671334875964,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true
+}
